@@ -5,7 +5,7 @@
 > Python, Delphi e SQL
 
 
-**Algumas outras tarefas realizadas:**
+**Outras tarefas realizadas:**
 > Cyber-Security, Shell, Java, PHP e Infra
 
 

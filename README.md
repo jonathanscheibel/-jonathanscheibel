@@ -2,7 +2,7 @@
 
 
 **Assuntos de dominância:**
-> Cyber-Security, Python, Linux, Delphi e Banco Relacionais, etc.
+> Cyber-Security, OSINT, Python, Linux, Linguagens Compiladas, Engenharia Reversa, Banco Relacionais, etc.
 
 
 ```

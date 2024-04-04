@@ -8,6 +8,7 @@
 ```
 “Medir o progresso da programação por linhas de código é como medir o progresso da 
 construção de aeronaves em termos de peso.” Bill Gates.
+
 “Um bom resultado do trabalho se mede com o comportamento de quem o recebe, não com seu orgulho próprio de o ter feito.“ Jonathan Scheibel.
 ```
 
